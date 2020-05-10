@@ -1,3 +1,9 @@
+Note:
+=====
+    The t7z tool was forked. The updated runs on Linux and Window. The new code is maintained in a separate repo : ( https://github.com/BubblesInTheTub/torrent7z )
+    
+    
+
 you can use t7z in two ways:
 convert *.7z archives to t7z format - pass directory containing archives
 as a first parameter to application(exactly the same as with torrentzip)
