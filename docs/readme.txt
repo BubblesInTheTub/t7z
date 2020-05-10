@@ -1,6 +1,7 @@
 Note:
 =====
-    The t7z tool was forked. The updated runs on Linux and Window. The new code is maintained in a separate repo : ( https://github.com/BubblesInTheTub/torrent7z )
+    The t7z tool was forked. The updated runs on Linux and Window. The new code is maintained in a 
+    separate repo : ( https://github.com/BubblesInTheTub/torrent7z )
     
     
 
